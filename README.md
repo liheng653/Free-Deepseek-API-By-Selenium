@@ -5,7 +5,9 @@ Simulate using Deepseek on website by selenium, packed as free API for wider usa
 
 #### Create an Instance
 
-`deepseek = Deepseek("15915091250","Liheng1123581321")`
+`deepseek = Deepseek("phonenumber","password")`
+
+Sign in.
 
 #### Send Message
 

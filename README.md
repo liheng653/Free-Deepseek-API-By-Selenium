@@ -23,7 +23,7 @@ deepseek.setSearch(True)
 
 `deepseek.uploadFile(file_path)`
 
-####　Chat History
+#### Chat History
 
 `deepseek.history`
 
